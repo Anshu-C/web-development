@@ -1,2 +1,2 @@
 # web-development
-This repo is part of the we dev bootcamp training
+This repo is part of the wed dev bootcamp training
